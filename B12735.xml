@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>It is so manifest to the world by all our proceedings hitherto towards those subiects of ours, which doe professe the Romish religion, ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12735</idno><idno type="EEBO-CITATION">99892785</idno>
+  <idno type="VID">187165</idno>
+  <idno type="EEBO-PROQUEST">2248561459</idno>
+  
+            <idno type="STC">STC 8387</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[69]</idno>
+            <idno type="PROQUEST">ocm99892785</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892785e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187165)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>It is so manifest to the world by all our proceedings hitherto towards those subiects of ours, which doe professe the Romish religion, ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: VVestminster the fifteenth of Ianuarie, in the third eere of our reigne ... .</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Outlaws --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187165:1"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of a crown</figDesc>
+               </figure> ❧ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is so manifest to the world by all our procee<g ref="char:EOLhyphen"/>dings</hi> hitherto towards those Subiects of ours, which doe professe the Romish Religion, how slowe Wee haue been to extend the seue<g ref="char:EOLhyphen"/>ritie of our Lawes (in matter of life) euen against the Romish Priests themselues, who seditiously incite and warrant the ignorant Papists to forsake their naturall loue and loyaltie; as We assure our selues that all which Wee shall now require hereby at the hands of our people, will appeare most iust by the Lawes of Nature, and by the straight bonds of our peoples affections to Vs their Soueraigne, and to their Countrey (although there were no such certaine positiue Lawes as there are, so straightly to enioyne the same, and vnder so hea<g ref="char:EOLhyphen"/>uie paines.) And therefore seeing it is now made plame and euident by diuers examinations of many of those Prisoners that haue been the principall Conspiratours in the barbarous prac<g ref="char:EOLhyphen"/>tise to destroy (with Powder) our owne Person and Posteritie, with the whole State of the Realme in Parliament assembled, that those three Iesuites vnder named, <hi>Iohn Gerrard <hi>aliâs</hi> Brooke, Henry Garnet <hi>aliâs</hi> Walley, <hi>aliâs</hi> Darcy, <hi>aliâs</hi> Farmer, Oswald Tesmond <hi>aliâs</hi> Greenway,</hi> haue all three peculiarly been practisers in the same; and being throughly perswaded that (in this Treason so foule and odious to euery good Subiects eares and hearts) We shall find no man so blind or im<g ref="char:EOLhyphen"/>pious, as for any distinction whatsoeuer to forbeare to doe their vttermost dueties for the disco<g ref="char:EOLhyphen"/>uerie and apprehension of them that haue so extraordinarily sinned against GOD, and be<g ref="char:EOLhyphen"/>trayed Vs:</p>
+            <p>We haue now thought good (in that consideration the rather) not only to make knowen to all men, the bloody and cruell crimes wherof these particular persons are guiltie, but also to declare to all our Subiects hereby, That although the conformitie of all our Subiects to our com<g ref="char:EOLhyphen"/>mandements herein, shall be no more then that which we do assuredly promise our selues from such louing people, of whose fidelitie we haue had so extraordinary experience in like cases; Ne<g ref="char:EOLhyphen"/>uerthelesse wee are resolued, that whosoeuer shalbe found to haue beene the particular occasion or instrument of their apprehensions, or any of them, shalbe particularly rewarded by vs, as di<g ref="char:EOLhyphen"/>uers haue beene already, that haue shewed their zeale and forwardnesse for the prosecution and apprehension of some of these Conspirators: Adding thereunto this further protestation, That if it shall appeare by any confessions hereafter, that any persons within our Dominions or Countreyes (after this declaration of these mens guiltines in crimes so farre beyond example)
+<pb facs="tcp:187165:2"/>shall presume to be a Harbourer, mainteiner, or Concealer of any of these three persons, or shall not doe his best for their discouery and apprehension, That we are resolued (without hope of mercy or forgiuenesse) to suffer the Lawes of the Realme, to be most seuerely executed vpon them, as vpon those whom we esteeme to be no lesse pernitious to our Person, State and Com<g ref="char:EOLhyphen"/>mon wealth, then those that haue beene Actours and Concealers of the maine treason it selfe.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Palace of VVestminster</hi>
+                  <date>
+                     <hi>the fifteenth of Ianuarie, in the third yeere of our Reigne of Great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+         <div type="descriptions_of_fugitives">
+            <head>Description of the seuerall parties aboue named.</head>
+            <p>
+               <hi>IOhn Gerrard, aliâs Brooke,</hi> of stature Tall, and according thereunto well Set: his complexion Swart or Blackish: his Face large: his Cheekes sticking out, and somwhat Hollow vnderneath the Cheekes: the Haire of his Head long, if it be not cut off: his Beard cut close, sauing little Mustachoes, and a little Tuft vnder his lower Lippe: about fourtie yeeres olde.</p>
+            <p>
+               <hi>HEnry Garnet, aliâs Walley, aliâs Darcy, aliâs Farmer,</hi> of a middling Stature, full Fa<g ref="char:EOLhyphen"/>ced, Fatte of body, of Complexion faire: his Forehead high on each side, with a little thinne Haire comming downe vpon the middest of the fore<g ref="char:EOLhyphen"/>part of his Head: the Haire of his Head and Beard grifeled: of Age betweene fif<g ref="char:EOLhyphen"/>tie and threescore: his Beard on his Cheekes cut close, on his Chinne but thinne, and somewhat short: his Gate vpright, and comely for a Fatte man.</p>
+            <p>
+               <hi>OSwald Tesmond, aliâs Greenway,</hi> of meane Stature, somewhat Grosse: his Haire blacke: his Beard bushie and browne, something long, a broad Fore<g ref="char:EOLhyphen"/>head, and about fortie yeeres of age.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. ANNO DOM. 1606.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
